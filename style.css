@@ -1,0 +1,258 @@
+#im {
+  display: block;
+  margin-left: left;
+  margin-right: auto;
+  float: left;
+}
+
+
+
+#imgs{
+
+position: fixed;
+top : 12%;
+right : 21%;
+height:6%;
+width:5%;
+}
+
+#imgs1{
+  position: fixed;
+  top : 23%;
+  right : 21%;
+  height:6%;
+  width:5%;
+
+}
+
+
+
+#imgs2{
+  position: fixed;
+  top : 32%;
+  right : 18%;
+  height:8%;
+  width:5%;
+
+}
+
+#imgs3{
+  position: fixed;
+  top : 52%;
+  right : 0%;
+  height:48%;
+  width:30%;
+
+}
+
+#loginform{
+/*-webkit-appearance: none;
+-moz-appearance: none;*/
+position: fixed;
+height: 100%;
+background-color: white;
+width:30%;
+right : 0%;
+top:0%;
+padding-bottom: 100%;
+margin: 0px;
+
+}
+
+#wrong_credential{
+
+position: absolute;
+right : 8%;
+font-family :cursive;
+font-size: 100%;
+top:47%;
+color: black;
+}
+
+#main{
+text-align: center;
+background-image: url("Image/cubes-transparent-digital-art.jpg");
+margin : 0px;
+}
+
+#detailPage{
+margin : 0px;
+text-align: center;
+background-image: url("Image/3884357-desktop-hd-wallpapers.jpg");
+
+}
+
+#confirm_booking{
+margin : 0px;
+background-image: url("Image/photo-1481627834876-b7833e8f5570.jpg");
+text-align: center;
+}
+
+#searchPage{
+margin : 0px;
+background-image: url("Image/photo-1481627834876-b7833e8f5570.jpg");
+padding: 2px;
+text-align: center;
+}
+
+
+#pending_page {
+margin : 0px;
+  background-image: url("Image/images (5).jpg");
+  /*background-position: center;*/
+  background-size:auto;
+  /*background-repeat: repeat-x;*/
+  text-align: center;
+  }
+
+#admin{
+margin : 0px;
+background-image: url("Image/images (5).jpg");
+/*background-position: center;*/
+background-size:auto;
+text-align: center;
+/*background-repeat: repeat-x;*/
+}
+
+  #cancel,#back {
+  position: absolute;
+  top: 1.2%;
+  right:150px;
+}
+
+#mail,#pass, select ,input[type=date]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+
+#logout,#cancel,#back{
+  width: 8%;
+  background-color: crimson;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+button[type=submit]{
+  width: 20%;
+  background-color: lime;
+  color: white;
+  padding: 14px 20px;
+  margin:8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.table{
+
+  border-radius: 15px 50px 30px 5px;
+  background: sandybrown;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+
+}
+
+.table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.table  tr{
+
+background-color: black;
+color: white;
+
+}
+
+h3{
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: bolder;
+background-color: black;
+font-size: 300%;
+color: white;
+}
+
+
+h2{
+
+font-size: 30px;
+font-family: monospace;
+font-style: normal;
+font-weight: bold;
+color : white;
+
+}
+
+#logout{
+
+position: absolute;
+top : 1%;
+left: 91%;
+}
+
+#show-bookings{
+
+text-align: center;
+
+}
+
+#show-routine{
+height: 40%;
+width : 70%;
+position: absolute;
+top : 20%;
+left : 30%;
+}
+
+.header-wrapper {
+
+    overflow: hidden;
+    text-align: center;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.site-name h1 {
+    margin: 0;
+    font-size: 34px;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+
+}
+
+table {
+    position: inherit;
+    border-collpse: collapse;
+    border-spacing: 0;
+}
+
+#log-in {
+
+  width: 20%;
+  background-color: crimson;
+  color: white;
+  padding: 14px 20px;
+  margin:8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
